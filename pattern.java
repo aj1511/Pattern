@@ -2,7 +2,7 @@ import java.util.*;
 public class pattern {
 	public static void main(String[] args) {
 	
-	int x,n,i=6,y=1;
+	int x,n,i=5,y=1;
 	for (x=1;x<i;x++)
 	{
 		for(n=1;n<=x;n++) {
